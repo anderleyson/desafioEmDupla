@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-api-gama-2db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testes.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoscurymoreira/ecommerce-api-gama-2db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoscurymoreira/ecommerce-api-gama-2db/issues"
+  },
+  "homepage": "https://github.com/marcoscurymoreira/ecommerce-api-gama-2db#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
